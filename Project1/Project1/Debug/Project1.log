@@ -1,0 +1,5 @@
+﻿  Containers.cpp
+  Source.cpp
+  Создание кода...
+z:\lovegit\conatainers\containers.cpp(53): warning C4172: возвращение адреса локальной или временной переменной : index
+z:\lovegit\conatainers\containers.cpp(60): error C4716: MyArray::operator=: должна возвращать значение
